@@ -125,3 +125,49 @@ First question is this - why is there a requirement for atleast 30 characters?
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: BulletExercise
+key: f4bd44389d
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 052f72548d
+xp: 100
+```
+
+`@instructions`
+
+
+`@hint`
+
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
