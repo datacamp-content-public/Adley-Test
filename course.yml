@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
-programming_language: python
-from: python-base-prod:21
+title: "Canvas embed or link test"
+description: "Creating a course to test linking or embedding in Canvas"
+programming_language: "python"
+from: "python-base-prod:21"
