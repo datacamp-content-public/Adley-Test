@@ -4,7 +4,7 @@ description: Test
 free_preview: true
 ---
 
-## An exercise title written in sentence case
+## Exercise 1
 
 ```yaml
 type: NormalExercise
@@ -58,4 +58,70 @@ The instructions that follow should be in bullet point form with clear guidance 
 ```{python}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
+```
+
+---
+
+## Exercise 2
+
+```yaml
+type: NormalExercise
+key: fb2cec53ea
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Multiple choice with Console
+
+```yaml
+type: MultipleChoiceExercise
+key: 2c7681a8d9
+xp: 50
+```
+
+First question is this - why is there a requirement for atleast 30 characters?
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
 ```
